@@ -1,4 +1,5 @@
-#Standard-bulk-RNA-seq-pipeline
+##Standard-bulk-RNA-seq-pipeline
+---
 The assignment involved analyzing generic FASTQ files through the following steps:
 
 1. Read Preprocessing: Performed read trimming using Sickle and Scythe.
