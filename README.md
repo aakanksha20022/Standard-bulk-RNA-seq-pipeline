@@ -6,13 +6,13 @@ RNA-Seq Analysis Workflow
 4. Experimental Design Table: Created based on provided instructions.
 5. Data Filtering and Differential Expression Analysis: Applied filtering and ran differential expression analysis.
 6. Visualization:
-  -Dispersion plots
-  -rlog-transformed PCA plots
-  -“SD versus Mean” plots
-  -MA (MvA) plots based on null hypotheses
+  - Dispersion plots
+  - rlog-transformed PCA plots
+  - “SD versus Mean” plots
+  - MA (MvA) plots based on null hypotheses
 11. Batch Effect Correction: Applied a limma-based batch removal function to correct rlog-transformed gene counts.
 12. Revised PCA: Generated PCA plots using batch-corrected rlog values.
 
 Outputs:
--Count Matrices: Gene-level and transcript-level count matrices for downstream analysis.
--Visualizations: Dispersion plots, PCA plots, SD vs. Mean plots, and MA plots.
+- Count Matrices: Gene-level and transcript-level count matrices for downstream analysis.
+- Visualizations: Dispersion plots, PCA plots, SD vs. Mean plots, and MA plots.
