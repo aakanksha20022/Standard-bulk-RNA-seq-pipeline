@@ -9,8 +9,12 @@ The assignment involved analyzing generic FASTQ files through the following step
 5. Data Filtering and Differential Expression Analysis: Applied filtering and ran differential expression analysis.
 6. Visualization:
   -Dispersion plots
+   
   -rlog-transformed PCA plots
+  
   -“SD versus Mean” plots
+  
   -MA (MvA) plots based on null hypotheses
+  
 7.Batch Effect Correction: Applied a limma-based batch removal function to correct rlog-transformed gene counts.
 8.Revised PCA: Generated PCA plots using batch-corrected rlog values.
