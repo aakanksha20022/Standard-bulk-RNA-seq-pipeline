@@ -1,4 +1,4 @@
-##Standard-bulk-RNA-seq-pipeline
+Standard-bulk-RNA-seq-pipeline
 ---
 The assignment involved analyzing generic FASTQ files through the following steps:
 
